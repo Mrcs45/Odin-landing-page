@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* general styles */
+
+ul {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 18px;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+
+/* Header styles */
+
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #1f2937;
+    padding: 10px 88px;
+    margin-bottom: 0;
+}
+
+.logo {
+    margin: 0;
+    padding: 0;
+    color: #f9faf8;
+    font-size: 24px;
+}
+
+
+
+
+
+
