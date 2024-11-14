@@ -52,6 +52,12 @@ header {
     padding: 22px 88px;
     gap: 15px;
     justify-content: space-between;
+    flex-direction: column;
+}
+
+.hero-container {
+    display: flex;
+    justify-content: space-between;
 }
 
 .hero-img {
