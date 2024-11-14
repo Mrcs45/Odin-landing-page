@@ -1,6 +1,7 @@
 body {
     margin: 0;
     padding: 0;
+    height: 100vh;
     display: flex;
     flex-direction: column;
     font-family: 'Roboto', sans-serif;
@@ -53,6 +54,7 @@ header {
     gap: 15px;
     justify-content: space-between;
     flex-direction: column;
+    margin-bottom: 0;
 }
 
 .hero-container {
@@ -103,6 +105,10 @@ header {
     justify-content: flex-start;
     align-items: center;
     gap: 10px;
+}
+
+.section-two {
+    background-color: white;
 }
 
 
