@@ -133,6 +133,7 @@ header {
     display: flex;
     justify-content: space-evenly;
     gap: 16px;
+    width: 800px;
 }
 
 .choose {
@@ -151,4 +152,23 @@ header {
     font-size: 18px;
 }
 
+
+.section-three {
+    padding: 22px 88px;
+    margin-bottom: 0;
+    background-color: #E5E7EB;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-three p {
+    align-self: center;
+    max-width: 800px;
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+    font-weight: 300;
+}
 /*  */
